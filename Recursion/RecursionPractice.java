@@ -1,3 +1,5 @@
+// IDE - Intellij
+
 import java.util.Scanner;
 
 public class RecursionPractice {
@@ -19,3 +21,4 @@ public class RecursionPractice {
      stars(number-1);
     }
 }
+
