@@ -1,9 +1,4 @@
 /*
- * Class:       CS 3305/W01
- * Term:        Fall 2025
- * Name:        Justin Turner
- * Professor:   Sharon Perry
- * Assignment:  4
  * IDE:         IntelliJ
  */
 
@@ -91,3 +86,4 @@ public class ReverseString {
 
     }
 }
+
