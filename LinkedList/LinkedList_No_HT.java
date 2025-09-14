@@ -1,8 +1,3 @@
-// Name:            Justin Turner
-// Class:	        CS 3305/W01
-// Term:		    Fall 2025
-// Instructor:      S. Perry
-// Assignment:      3
 // IDE Name:	    Intellij
 
 
@@ -246,4 +241,5 @@ public class LinkedList_No_HT
       }
    }
 }
+
 
