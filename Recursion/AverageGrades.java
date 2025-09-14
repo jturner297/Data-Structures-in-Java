@@ -1,9 +1,4 @@
 /*
- * Class:       CS 3305/W01
- * Term:        Fall 2025
- * Name:        Justin Turner
- * Professor:   Sharon Perry
- * Assignment:  2
  * IDE:         IntelliJ
  */
 import java.util.Scanner;
@@ -151,3 +146,4 @@ public class AverageGrades {
 
 
 }
+
